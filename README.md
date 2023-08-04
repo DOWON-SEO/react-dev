@@ -65,3 +65,9 @@
 -   객체, 배열 상태 활용
 -   커스텀 훅 구현
 
+### 4-4. useEffect와 useLayout 훅 이해
+
+-   React의 Lifecycle 이해
+-   EventListener 활용
+-   Fetch 활용
+-   커스텀 훅 구현
