@@ -4,9 +4,10 @@ export type ReactButtonProps = DetailedHTMLProps<ButtonHTMLAttributes<HTMLButton
 
 export type ButtonProps = ReactButtonProps & {};
 
-export default function Button({ children, ...buttonProps }: PropsWithChildren<ButtonProps>) {
+export default function Button({ children, className: _className, ...buttonProps }: PropsWithChildren<ButtonProps>) {
+    const className = ["btn", _className].join(" ");
     return (
-        <button {...buttonProps}>
+        <button className={className} {...buttonProps}>
             {/* You can use children here if needed */}
             {children}
         </button>
