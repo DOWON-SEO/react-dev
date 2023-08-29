@@ -71,3 +71,10 @@
 -   EventListener 활용
 -   Fetch 활용
 -   커스텀 훅 구현
+
+### 4-5. useRef와 useImperativeHandle 훅 이해
+
+-   useRef를 이용하여 DOM 객체 레퍼런스
+-   FileReader 클래스로 File 객체 읽기
+-   forwardRef 이용하여 컴포넌트에 ref 전달
+-   useImperativeHandle 이용하여 ref 전달
