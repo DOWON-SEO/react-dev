@@ -78,3 +78,9 @@
 -   FileReader 클래스로 File 객체 읽기
 -   forwardRef 이용하여 컴포넌트에 ref 전달
 -   useImperativeHandle 이용하여 ref 전달
+
+### 4-6. useContext 훅 이해
+
+-   createContext, useContext 활용하여 데이터 전달
+-   Provider 컴포넌트 사용
+-   반응형 컴포넌트 제작
