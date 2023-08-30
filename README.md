@@ -48,7 +48,7 @@
 -   외부 컴포넌트 적용
 -   컴포넌트 커스텀
 
-### 4장 - 함수 컴포넌트와 훅의 이해
+## 4장 - 함수 컴포넌트와 훅의 이해
 
 ### 4-1. 처음 만나는 리액트 훅
 
@@ -84,3 +84,12 @@
 -   createContext, useContext 활용하여 데이터 전달
 -   Provider 컴포넌트 사용
 -   반응형 컴포넌트 제작
+
+## 5장 - 상태 관리와 Redux 패키지
+
+### 5-1. Redux 기본 개념 이해
+
+-   Reducer, Action 이해
+-   useSelector 훅 이해
+-   Redux 저장소 구현
+-   useReducer 훅 사용
