@@ -93,3 +93,8 @@
 -   useSelector 훅 이해
 -   Redux 저장소 구현
 -   useReducer 훅 사용
+
+### 5-2. 리듀서 활용
+
+-   combineReducers() 활용한 리듀서 통합
+-   Redux를 활용한 컴포넌트 구현
