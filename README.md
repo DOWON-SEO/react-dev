@@ -110,3 +110,12 @@
 -   react-dnd, react-beautiful-dnd 패키지 활용
 -   Typescript의 Record 타입으로 Entity 방식 적용
 -   드래그 & 드랍으로 변경된 정보 처리
+
+## 6장 - 리액트 라우터
+
+### 6-1. 라우팅 기본
+
+-   Client-Side Rendering(CSR) 원리
+-   react-router-dom 패키지 사용
+-   라우팅 기본 설정
+-   useNavigate, useParams, useSearchParams 훅 사용
