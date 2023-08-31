@@ -98,3 +98,9 @@
 
 -   combineReducers() 활용한 리듀서 통합
 -   Redux를 활용한 컴포넌트 구현
+
+### 5-3. Redux 미들웨어의 이해
+
+-   미들웨어의 개념 이해, 설정
+-   로거 미들웨어 적용, 테스트
+-   react-thunk 활용하여 함수로 action 호출
