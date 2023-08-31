@@ -104,3 +104,9 @@
 -   미들웨어의 개념 이해, 설정
 -   로거 미들웨어 적용, 테스트
 -   react-thunk 활용하여 함수로 action 호출
+
+### 5-4. Trello 앱 칸반보드 구현
+
+-   react-dnd, react-beautiful-dnd 패키지 활용
+-   Typescript의 Record 타입으로 Entity 방식 적용
+-   드래그 & 드랍으로 변경된 정보 처리
