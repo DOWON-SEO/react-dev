@@ -119,3 +119,8 @@
 -   react-router-dom 패키지 사용
 -   라우팅 기본 설정
 -   useNavigate, useParams, useSearchParams 훅 사용
+
+### 6-2. 라우팅 응용
+
+-   Outlet 컴포넌트 활용한 레이아웃 설정
+-   useResolvedPath, useMatch 훅 사용
