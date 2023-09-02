@@ -136,3 +136,9 @@
 
 -   MongoDB 기초 문법
 -   연산자와 정규식
+
+### 7-2. MongoDB - Node.js 연동
+
+-   mongodb 패키지 적용
+-   DB 조작 메소드 사용
+-   Node.js 환경에서의 DB 테스트 구현
