@@ -124,3 +124,8 @@
 
 -   Outlet 컴포넌트 활용한 레이아웃 설정
 -   useResolvedPath, useMatch 훅 사용
+
+### 6-3. 비공개 라우트 구현
+
+-   useAuth 커스텀 훅 구현
+-   특정 조건에 따른 컴포너트 라우팅 구현
