@@ -142,3 +142,9 @@
 -   mongodb 패키지 적용
 -   DB 조작 메소드 사용
 -   Node.js 환경에서의 DB 테스트 구현
+
+### 7-3. Express REST API 서버 구축
+
+-   Express Middleware, Router 사용
+-   CRUD 구현 (MongoDB)
+-   클라이언트 구현 & REST API 호출
