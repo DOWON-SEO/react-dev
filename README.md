@@ -148,3 +148,8 @@
 -   Express Middleware, Router 사용
 -   CRUD 구현 (MongoDB)
 -   클라이언트 구현 & REST API 호출
+
+### 7-4. JWT 활용한 회원 인증 기능 구현
+
+-   jwt 패키지 활용하여 토큰 발급, 검증 구현
+-   로그인 여부 확인절차 REST API로 구현
